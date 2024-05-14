@@ -1,2 +1,0 @@
-# Startup
-Start Up Website
